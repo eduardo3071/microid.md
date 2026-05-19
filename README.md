@@ -9,7 +9,9 @@
 [![AI Diagnostics](https://img.shields.io/badge/AI-Diagnostics-6E40C9?style=for-the-badge)](#how-it-works)
 [![Global Health](https://img.shields.io/badge/Global-Health-1F8B4C?style=for-the-badge)](#purpose)
 
-![Banner](./images/banner.png)
+<br/>
+
+![Banner](./images/hackathon-banner.png)
 
 </div>
 
@@ -31,6 +33,20 @@ Built in Brazil. Designed for the world.
 >
 > 🤝 Competing against teams from **41 countries**
 
+<div align="center">
+
+<img src="./images/award.png" alt="Award Ceremony" width="48%"/>&nbsp;&nbsp;<img src="./images/team.png" alt="MicroID Lab Team" width="48%"/>
+
+<sub>Award ceremony & MicroID Lab team at Hackathon HSIL 2026 — Harvard T.H. Chan School of Public Health</sub>
+
+<br/><br/>
+
+![Group Photo](./images/group.png)
+
+<sub>Hackathon HSIL 2026 — InovaHC, HCFMUSP</sub>
+
+</div>
+
 ---
 
 ## How It Works
@@ -50,9 +66,7 @@ The platform assists diagnostic workflows by analyzing microscopy images alongsi
 
 ![Dashboard](./images/dashboard.png)
 
-![Analysis](./images/analysis.png)
-
-![Interface](./images/interface.png)
+<sub>MicroID Lab — mobile diagnostic dashboard</sub>
 
 </div>
 
